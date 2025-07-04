@@ -1,4 +1,10 @@
 # 0x16. C - Simple Shell
+🐚 simple_shell
+A lightweight UNIX-style shell implemented in C—supports command execution, arguments, built-ins, and environmental variables. Ideal for learning process control, system calls, and shell fundamentals
+
+
+
+A lightweight UNIX-style shell implemented in C—supports command execution, arguments, built-ins, and environmental variables. Ideal for learning process control, system calls, and shell fundamentals.
 
 ## Learning Objectives:bulb:
 What you should learn from this project:
